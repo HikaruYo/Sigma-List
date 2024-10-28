@@ -10,7 +10,7 @@
 <body>
 
     @include('components.header')
-
+    @include('components.navbar')
     @include('components.home')
 
 </body>

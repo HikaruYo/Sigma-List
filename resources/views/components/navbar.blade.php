@@ -5,6 +5,7 @@
             <p>Genre</p>
         </div>
         <div>
+            {{-- TODO: Make Search Engine --}}
             Search Anime
         </div>
     </div>

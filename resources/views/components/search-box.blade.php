@@ -4,9 +4,9 @@
             {{-- TODO: Make Search Engine --}}
             @include('components.Function.search')
         </div>
-        <div class="flex gap-4">
-            <p>Top Anime</p>
-            <p>Genre</p>
+        <div class="flex pt-4 gap-4 font-medium">
+            <a href="#top-anime">Top Anime</a>
+            <a href="#category">Category</a>
         </div>
     </div>
 </section>

@@ -1,4 +1,4 @@
-<section class="p-3 bg-gray-600 w-80 rounded-xl">
+<section class="p-3 bg-gray-200 w-80 rounded-xl">
     <div class="flex flex-col justify-between items-center mx-auto">
         <div>
             {{-- TODO: Make Search Engine --}}

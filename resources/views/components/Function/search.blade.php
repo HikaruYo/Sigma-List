@@ -1,4 +1,4 @@
-<div class="flex items-center bg-gray-100 rounded-full px-4 py-1 w-96 max-w-lg mx-auto shadow-md">
+<div class="flex items-center bg-gray-100 rounded-full px-4 py-1 w-72 max-w-lg mx-auto shadow-md">
     <input
         type="text"
         placeholder="Search Anime"

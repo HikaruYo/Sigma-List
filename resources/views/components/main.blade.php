@@ -10,8 +10,12 @@
 <body>
 
     @include('components.header')
-    @include('components.navbar')
-    @include('components.home')
+
+    {{-- Main Page --}}
+    <div class="flex pt-10  lg:px-52 md:px-20 sm:px-12 px-8 justify-between">
+        @include('components.home')
+        @include('components.search-box')
+    </div>
 
 </body>
 </html>

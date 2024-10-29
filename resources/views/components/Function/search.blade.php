@@ -1,3 +1,4 @@
+{{-- TODO: Change UI --}}
 <div class="flex items-center shadow-md border-2 border-gray-700 bg-gray-400 rounded-xl">
     <div class="flex items-center px-4 py-1 w-64 max-w-lg mx-auto">
         <input

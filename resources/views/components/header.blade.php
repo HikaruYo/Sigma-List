@@ -1,4 +1,4 @@
-<section class="p-3 lg:px-52 md:px-20 sm:px-12 px-8 bg-slate-900">
+<section class="p-3 lg:px-52 md:px-20 sm:px-12 px-8 bg-[#0e1111]">
     <div class="container flex mx-auto justify-between items-center">
         <h2 class="font-semibold md:text-3xl text-xl text-white">Sigma List</h2>
         <div class="flex md:gap-3 gap-1 items-center text-center">

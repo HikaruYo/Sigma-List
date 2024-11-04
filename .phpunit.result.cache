@@ -1,1 +1,1 @@
-{"version":1,"defects":{"Tests\\Feature\\UserServiceTest::testSample":8},"times":{"Tests\\Feature\\UserServiceTest::testSample":0.02}}
+{"version":1,"defects":{"Tests\\Feature\\UserServiceTest::testSample":8},"times":{"Tests\\Feature\\UserServiceTest::testSample":0.022,"Tests\\Feature\\UserServiceTest::testLoginSuccess":0.015,"Tests\\Feature\\UserServiceTest::testUserNotFound":0.015,"Tests\\Feature\\UserServiceTest::testWrongPassword":0.009}}

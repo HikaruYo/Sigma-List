@@ -5,7 +5,10 @@
             @include('components.Function.search')
         </div>
         <div class="flex flex-col px-2 pt-4 w-full font-medium">
-            <p>Category</p>
+            <h2 class="text-2xl">Category</h2>
+            <p>Top Anime</p>
+            {{-- Saran, Dropdown untuk Tags --}}
+            <p>Tags</p>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-2 p-2 border-2 border-black rounded-lg mt-2 bg-gray-300 text-sm">
                 <a href="" class="hover:text-gray-400 transition duration-200 border-b-2 border-black text-center pb-1">Top Anime</a>
                 <a href="" class="hover:text-gray-400 transition duration-200 border-b-2 border-black text-center pb-1">Movie</a>
